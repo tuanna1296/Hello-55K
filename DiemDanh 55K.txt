@@ -1,10 +1,9 @@
 
-
-
-=======
-Số TT | Họ tên | Mã SV | email
++Số TT | Họ tên | Mã SV | email | FB
 1 | Phan Sỹ Tân | 145D4802010009 | phongtrank55@gmail.com
+2 | Nguyễn Ngọc Vũ | 145D4802010065 | ngngvu96@gmail.com | ngngvu123
 Nguyễn Văn Quang 145D4802010046 Phansinhquang1106@gmail.com
 03 | Nguyễn Thành Công | 145D4802010035 | congnguyen020296@gmail.com
+69 | Trần Minh Trọng | 145D4802010051 | tranminhtrong102@gmail.com
 6|Lương Thị Mỹ Hoa|145D4802010102|myhoa261296@gmail.com
 
