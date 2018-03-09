@@ -14,6 +14,9 @@ Nguyễn Văn Quang 145D4802010046 Phansinhquang1106@gmail.com
 6|Lương Thị Mỹ Hoa|145D4802010102|myhoa261296@gmail.com
 Trịnh Ngọc Tuấn | 145D4802010050 | pakaton1711@gmail.com
 
+8 | Trần Thế Dân | 145D4802010123 | tranthedan1609@gmail.com | fit.danaiti
+=======
+
 8 | Vũ Quang Hòa | 135D4802010080 | sokichini@gmail.com
 =======
 
@@ -23,5 +26,6 @@ Trịnh Ngọc Tuấn | 145D4802010050 | pakaton1711@gmail.com
 8 | Nguyễn Trọng Nhân | 145D4802010013 | nhannt0211@gmail.com
 =======
 13 | Phan Thị Phượng | 145D4802010030 | phuongvip020296@gmail.com
+
 
 
